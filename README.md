@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joe
+- 👀 I’m interested in learning more about healthcare IT related projects
+- 🌱 I’m currently learning about paperless and mirth
+- 📫 How to reach me ...
+- ⚡ Fun fact: i am an old dog but i love learning new stuff.
