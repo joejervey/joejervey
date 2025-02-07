@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joe
+- 👋 Hi, I’m @joejervey
 - 👀 I’m interested in learning more about healthcare IT related projects
 - 🌱 I’m currently learning about paperless and mirth
 - 📫 How to reach me ...
